@@ -1,7 +1,10 @@
 #EXTM3U
 
+
 #EXTINF:-1, Adhyatma TV
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Aastha_Logo.png" group-title="*pro", Aastha Gujarati SD (Aastha)
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdnts=st=1782539081~exp=1782560681~acl=!*/110923/smil:aasthagujrati.smil/*!/payload/yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1/*~data=yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1~hmac=2f9822620aff29959374a85c4e17c908f7138ee004759f994ca563158e1a6031&
 #EXTINF:-1, Aastha
 https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
 #EXTINF:-1, Sanskar TV (1080p)
@@ -42,8 +45,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
 #EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="*pro", Shub FHD
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Aastha_Logo.png" group-title="*pro", Aastha Gujarati SD (Aastha)
-https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdnts=st=1782539081~exp=1782560681~acl=!*/110923/smil:aasthagujrati.smil/*!/payload/yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1/*~data=yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1~hmac=2f9822620aff29959374a85c4e17c908f7138ee004759f994ca563158e1a6031&
 #EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/4964141subh_cinema_logo_new.png" group-title="*pro", Shub Cinema FHD
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iklzje.jpeg" group-title="*pro", Vedic SD
