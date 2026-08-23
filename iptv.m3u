@@ -4,7 +4,7 @@
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Aastha_Logo.png" group-title="*pro", Aastha Gujarati SD (Aastha)
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdnts=st=1782539081~exp=1782560681~acl=!*/110923/smil:aasthagujrati.smil/*!/payload/yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1/*~data=yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.236.34_aastha_3_channel_13_-1~hmac=2f9822620aff29959374a85c4e17c908f7138ee004759f994ca563158e1a6031&
-#EXTINF:-1, Aastha
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="*pro", Aastha FHD (Waves)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1, Aastha
 https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
@@ -36,8 +36,6 @@ https://mumbai-edge.smartplaytv.in/SportsGrid/index.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=b3802fb3-efee-4b54-9d73-dad469b79089
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/cbgzfa.jpeg" group-title="*pro", Aastha bhajan SD (Aastha)
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdnts=st=1782536644~exp=1782558244~acl=!*/110923/smil:bhajan.smil/*!/payload/yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.239.244_aastha_3_channel_2_-1/*~data=yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.239.244_aastha_3_channel_2_-1~hmac=efc77b9b41f9302c0293543c57cda376b2cc5c82c21b0d54b2fb1d021b2d1153&
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="*pro", Aastha FHD (Waves)
-https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=01ef1710-ad60-4661-8739-43c966136a58
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="*pro", Aastha FHD (Aastha)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdnts=st=1782536456~exp=1782558056~acl=!*/110923/smil:aasthatv.smil/*!/payload/yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.239.244_aastha_3_channel_1_-1/*~data=yupptvott_5_-1_54fd43a5-0190-bc98-8ca2-e91246d573a9_IN_157.48.239.244_aastha_3_channel_1_-1~hmac=ef6fc831baa79543a00e5194c21610fee3c0d31988185e4bc7332dfae243b54a&
 #EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/56888741566764sanskar.png" group-title="*pro", Sanskar FHD
